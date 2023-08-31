@@ -1,0 +1,5 @@
+30 epochs
+Minibatchsize: 10
+Learning rate: 0.1
+
+Training on MNIST trainingdata, testing on MNIST testdata each Epoch
